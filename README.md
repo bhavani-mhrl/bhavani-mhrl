@@ -28,14 +28,14 @@ Hey there! I'm Bhavani, a third-year Computer Science & Engineering student at M
 
 🎮 **Rock Paper Scissors**
 
-- Where Text Becomes Play – This plays against computer
+- it is a game built using HTML,CSS,JavaScript where computer chooses random based on applied JavaScript Logic
 
 🔗[Project Link](https://github.com/bhavani-mhrl/rockPaperScissors-project.git)
 
 
 🍽️ **Foodie Project** - Online Food Ordering System
 
-- which showcases the layout used html & css
+- which showcases the front-end used html & css and interactive web page
 
 🔗 [Project Link](https://github.com/bhavani-mhrl/foodie-project.git)
 
