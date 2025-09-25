@@ -28,9 +28,9 @@ Hey there! I'm Bhavani, a third-year Computer Science & Engineering student at M
 
 🎮 **Rock Paper Scissors**
 
-- Where Text Becomes Play – This play against computer
+- Where Text Becomes Play – This plays against computer
 
-🔗[Project Link]()
+🔗[Project Link](https://github.com/bhavani-mhrl/rockPaperScissors-project.git)
 
 
 🍽️ **Foodie Project** - Online Food Ordering System
