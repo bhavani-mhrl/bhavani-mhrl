@@ -43,13 +43,13 @@ Hey there! I'm Bhavani, a third-year Computer Science & Engineering student at M
 
 - that showcases my skills in html,css javascript
   
-🔗 Project Link
+🔗 [Project Link]()
 
+# 🛒 Amazon_clone Project
 
-A classic Snake Game built with Pygame.
-Features continuous movement, random food items, and edge wrapping.
-Players control the snake using arrow keys.
-🔗 Project Link
+cloned a amzon front-end layout using HTML & CSS
+
+🔗 [Project Link]()
 
 ---
 
