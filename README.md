@@ -39,13 +39,13 @@ Hey there! I'm Bhavani, a third-year Computer Science & Engineering student at M
 
 🔗 [Project Link]()
 
-📰 My Portofolio
+📰 **My Portofolio**
 
 - that showcases my skills in html,css javascript
   
-🔗 [Project Link]()
+🔗 [Project Link](https://github.com/bhavani-mhrl/My-portofolio.git)
 
-# 🛒 Amazon_clone Project
+ 🛒 **Amazon_clone Project**
 
 cloned a amzon front-end layout using HTML & CSS
 
