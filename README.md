@@ -37,7 +37,7 @@ Hey there! I'm Bhavani, a third-year Computer Science & Engineering student at M
 
 - which showcases the layout used html & css
 
-🔗 [Project Link]()
+🔗 [Project Link](https://github.com/bhavani-mhrl/foodie-project.git)
 
 📰 **My Portofolio**
 
