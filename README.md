@@ -49,7 +49,7 @@ Hey there! I'm Bhavani, a third-year Computer Science & Engineering student at M
 
 cloned a amzon front-end layout using HTML & CSS
 
-🔗 [Project Link]()
+🔗 [Project Link](https://github.com/bhavani-mhrl/clone-amazon-project.git)
 
 ---
 
